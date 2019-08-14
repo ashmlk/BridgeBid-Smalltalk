@@ -1,0 +1,24 @@
+{
+	"category" : "Assignment1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Declarer",
+		"eCards",
+		"eastPlayer",
+		"gameProcess",
+		"nCards",
+		"northPlayer",
+		"players",
+		"sCards",
+		"southPlayer",
+		"wCards",
+		"westPlayer" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "BidBridge",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

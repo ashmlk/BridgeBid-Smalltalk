@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildPlayer:" : "ArshiaMalekahmadi 2/19/2019 12:11",
+		"getOpen" : "ArshiaMalekahmadi 2/21/2019 23:39",
+		"getPartner" : "ArshiaMalekahmadi 2/20/2019 17:30",
+		"getPoints" : "ArshiaMalekahmadi 2/21/2019 23:30",
+		"largestSuit" : "ArshiaMalekahmadi 2/19/2019 12:16",
+		"numClubs" : "ArshiaMalekahmadi 2/7/2019 17:10",
+		"numDiamonds" : "ArshiaMalekahmadi 2/7/2019 17:10",
+		"numHearts" : "ArshiaMalekahmadi 2/7/2019 17:11",
+		"numSpades" : "ArshiaMalekahmadi 2/7/2019 17:11",
+		"setOpen:" : "ArshiaMalekahmadi 2/20/2019 18:20",
+		"setPartner:" : "ArshiaMalekahmadi 2/20/2019 17:30" } }

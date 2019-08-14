@@ -1,0 +1,3 @@
+numC
+numClubs
+	^numClubs

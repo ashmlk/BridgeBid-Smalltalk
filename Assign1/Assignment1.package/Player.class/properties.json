@@ -1,0 +1,25 @@
+{
+	"category" : "Assignment1",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"numClubs",
+		"numDiamonds",
+		"numHearts",
+		"numSpades",
+		"numVoids",
+		"numSingleton",
+		"numDoubleton",
+		"points",
+		"stopper",
+		"NT",
+		"partner",
+		"open" ],
+	"name" : "Player",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

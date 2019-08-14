@@ -1,0 +1,3 @@
+numH
+numHearts
+ ^numHearts 

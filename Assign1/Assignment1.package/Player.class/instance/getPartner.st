@@ -1,0 +1,5 @@
+Set Partner
+getPartner
+	^partner
+	
+

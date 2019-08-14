@@ -1,0 +1,3 @@
+numS
+numSpades
+	^numSpades

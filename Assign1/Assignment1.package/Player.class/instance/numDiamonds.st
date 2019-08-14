@@ -1,0 +1,3 @@
+numD
+numDiamonds 
+	^numDiamonds 
